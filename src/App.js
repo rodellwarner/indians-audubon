@@ -44,7 +44,7 @@ class App extends Component {
   }
 
   getRandomScale() {
-    return Math.random() * (0.5 - 0.3) + 0.3; // Range from 0.3 to 0.5
+    return Math.random() * (0.7 - 0.3) + 0.3; // Range from 0.3 to 0.7
   }
 
   updateContent() {
