@@ -106,6 +106,84 @@ const TEXTS = [
   },
   {
     "text": "I spent a portion of the day in adding a plant to my drawing of the Red-necked Diver, after which we all went on shore to the Indians' camp across the bay."
+  },
+  {
+    "text": "The young Indians simply waded out up to their knees, turned the eel grass over, and secured their prey."
+  },
+  {
+    "text": "The Indians roast them in a fire of brushwood, and devour them without salt or any other et ceteras."
+  },
+  {
+    "text": "The young men went off with the Indians this morning, but returned this evening driven back by flies and mosquitoes."
+  },
+  {
+    "text": "I had a visit from an old Frenchman who has resided on this famous island for fifty years; he assured me that no Red Indians were now to be found: the last he heard of were seen twenty-two years ago."
+  },
+  {
+    "text": "These native Indians give no quarter to anybody; usually, after killing their foes, they cut the heads off the latter, and leave the body to the wild beasts of the country."
+  },
+  {
+    "text": "Captain Sire took me in a light wagon to see old Mr. Chouteau one afternoon, 455and I found the worthy old gentleman so kind and so full of information about the countries of the Indians that I returned to him a few days afterwards, not only for the sake of the pleasure I enjoyed in his conversation, but also with the view to procure, both dead and alive, a species of Pouched Rat (Pseudostoma bursarius)[244] wonderfully abundant in this section of country."
+  },
+  {
+    "text": "The Indians, poor souls, were more quiet, and had already seated or squatted themselves on the highest parts of the steamer, and were tranquil lookers-on."
+  },
+  {
+    "text": "A few miles above New Brunswick we stopped to take in wood, and landed three of our Indians, who, belonging to the Iowa tribe, had to travel up La Grande Rivière."
+  },
+  {
+    "text": "After leaving this place we fairly entered the Indian country on the west side of the river, for the State of Missouri, by the purchase of the Platte River country, continues for about 250 miles further on the east side, where now we see the only settlements."
+  },
+  {
+    "text": "We saw a good number of Indians in the woods and on the banks, gazing at us as we passed; these are, however, partly civilized, and are miserable enough."
+  },
+  {
+    "text": "Here we stopped to put out our Iowa Indians, and also to land the goods we had for Mr. Richardson, the Indian agent."
+  },
+  {
+    "text": "Our Sac Indian chief started at once across the prairie towards the hills, on his way to his wigwam, and we saw Indians on their way towards us, running on foot, and many on horseback, generally riding double on skins or on Spanish saddles."
+  },
+  {
+    "text": "When the freight was taken in we proceeded, and the whole of the Indians followed along the shore at a good round run; those on horseback at times struck into a gallop."
+  },
+  {
+    "text": "He told us we were now in the country of the Fox Indians as well as that of the Iowas, that the number about him is over 1200, and that his district extends about seventy miles up the river. "
+  },
+  {
+    "text": "When we landed during the high wind we saw a fine sugar camp belonging to Indians."
+  },
+  {
+    "text": "This afternoon we reached the famous establishment of Belle Vue where resides the brother of Mr. Sarpy of St. Louis, as well as the Indian Agent, or, as he might be more appropriately called, the Custom House officer."
+  },
+  {
+    "text": "We had a famous pack of rascally Indians awaiting our landing—filthy and half-starved."
+  },
+  {
+    "text": "The store is no great affair, and yet I am told that they drive a good trade with Indians on the Platte River, and others, 478on this side of the Missouri."
+  },
+  {
+    "text": "Last July the captain sent twenty dragoons and as many Indians on a hunt for Buffaloes."
+  },
+  {
+    "text": "The Sioux Indians are great enemies to the Potowatamies, and very frequently kill several of the latter in their predatory excursions against them."
+  },
+  {
+    "text": "We saw there many Bank Swallows, and afterwards we came in view of the Blackbird Hill,[281] where the famous Indian chief of that name was buried, at his request, on his horse, whilst the animal was alive."
+  },
+  {
+    "text": "We saw this morning eleven Indians of the Omaha tribe."
+  },
+  {
+    "text": "On a sand-bar afterwards 488we saw three more Indians, also with a canoe frame, but we only interchanged the common yells usual on such occasions."
+  },
+  {
+    "text": "At our last landing for wood-cutting, we also went on shore, but shot nothing, not even took aim at a bird; and there was an Indian with a flint-lock rifle, who came on board and stared about until we left, when he went off with a little tobacco."
+  },
+  {
+    "text": "We have seen a great number of Black-headed Gulls, and some Black Terns, some Indians on the east side of the river, and a Prairie Wolf, dead, hung across a prong of a tree."
+  },
+  {
+    "text": "After a while we reached a spot where we saw ten or more Indians who had a large log cabin, and a field under fence."
   }
 
 

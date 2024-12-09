@@ -32,9 +32,6 @@ class App extends Component {
 
   startUpdates() {
     this.updateContent(); // Initial update for both image and text
-    this.updateInterval = setInterval(() => {
-      this.updateContent(); // Update both content types
-    }, 7000); // Update every 7 seconds
   }
 
   getRandomInt(min, max) {
@@ -44,7 +41,7 @@ class App extends Component {
   }
 
   getRandomScale() {
-    return Math.random() * (0.7 - 0.3) + 0.3; // Range from 0.3 to 0.7
+    return Math.random() * (1.5 - 1.2) + 1.2; // Range from 1.2 to 1.5
   }
 
   updateContent() {
@@ -59,6 +56,30 @@ class App extends Component {
       currentImageNumber: nextImageNumber,
       specificTextNumber: nextTextNumber,
     });
+
+    // Get the current text to be displayed
+    const currentText = TEXTS[nextTextNumber]?.text || "";
+    
+    // Calculate the number of words in the text
+    const wordCount = currentText.split(" ").length;
+    
+    // Calculate the display duration
+    const minDisplayTime = 5000; // Minimum display time (5 seconds)
+    const timePerWord = 500; // Additional time per word (500ms per word)
+    const maxDisplayTime = 25000; // Maximum display time (25 seconds)
+    const displayDuration = Math.min(maxDisplayTime, minDisplayTime + wordCount * timePerWord);
+
+    // Log the display time for debugging
+    console.log(`Text: "${currentText}"`);
+    console.log(`Word count: ${wordCount}, Display time: ${displayDuration}ms`);
+
+    // Clear the previous interval to avoid stacking
+    clearTimeout(this.updateInterval);
+
+    // Set a new interval based on the calculated display duration
+    this.updateInterval = setTimeout(() => {
+      this.updateContent(); // Update the text and image
+    }, displayDuration);
   }
 
   goFullScreen() {
@@ -73,17 +94,15 @@ class App extends Component {
 
     return (
       <div className="App">
-        <div className="contentContainer" onClick={() => this.goFullScreen()}>
-          <div className="textContainer">
-            <p>{specificText}</p>
-          </div>
-          <div className="imageContainer">
-            <img
-              src={requestImageFile(`./${currentImageNumber}.gif`)}
-              alt="art"
-              style={{ transform: `scale(${scale})` }} // Apply random scale
-            />
-          </div>
+        <div className="textContainer">
+          <p>{specificText}</p>
+        </div>
+        <div className="imageContainer" onClick={() => this.goFullScreen()}>
+          <img
+            src={requestImageFile(`./${currentImageNumber}.gif`)}
+            alt="art"
+            style={{ transform: `scale(${scale})` }} // Apply random scale
+          />
         </div>
       </div>
     );

@@ -1,4 +1,4 @@
-@import url("https://use.typekit.net/xbd0ekf.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Style+Script&display=swap');
 
 html, body {
   background-color: black;
@@ -9,10 +9,10 @@ html, body {
 }
 
 .App {
-  position: relative; /* Establish a containing block for absolute positioning */
+  position: relative; 
   width: 100%;
-  height: 100vh; /* Full viewport height */
-  background: linear-gradient(90deg, #959595, #353535, #121212, #636363, #282828, #747474, #1e1e1e);
+  height: 100vh; 
+  background: linear-gradient(268deg, #00ee3f, #00c8ff, #ffc000, #ff194f, #ff00ff, #6900d3, #ff0000, #ff9d00, #ffc400, #00ff26, #00ff9d);
   background-size: 800% 1200%;
   animation: AnimationName 90s ease infinite;
 }
@@ -29,32 +29,46 @@ html, body {
   }
 }
 
-.textContainer {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); /* Center text vertically and horizontally */
-  color: white;
-  text-align: center;
+.contentContainer {
+  position: relative; 
+  width: 100%;
+  height: 100%;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  overflow: hidden;
 }
 
-.textContainer p {
-  font-size: 20pt;
-  font-family: "Roboto", sans-serif;
+.textContainer {
+  position: absolute; 
+  width: 100%; 
+  height: 100%; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  color: white;
+  /* font-family: "Style Script", cursive;
   font-weight: 400;
-  margin: 0;
+  font-style: normal; */
+  font-size: 60pt;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  pointer-events: none;
 }
 
 .imageContainer {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); /* Center image vertically and horizontally */
+  position: absolute; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0; 
 }
 
 .imageContainer img {
-  max-width: 90%; /* Ensure the image scales down for smaller screens */
-  max-height: 90%; /* Prevent overflow */
-  object-fit: contain; /* Maintain aspect ratio */
-  cursor: pointer;
+  width: 100%; 
+  height: 100%; 
+  object-fit: cover; 
+  cursor: pointer; 
 }
