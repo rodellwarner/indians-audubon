@@ -46,7 +46,7 @@ html, body {
   transform: translate(-50%, -50%); /* Adjust by half its own width/height to truly center */
   color: white;
   font-family: "Noto Serif", serif;
-  font-size: clamp(10px, 6vw, 7vh); /* Dynamically scales font size based on screen size */
+  font-size: clamp(8px, 6vw, 6vh); /* Dynamically scales font size based on screen size */
   font-weight: 600;
   text-align: center;
   line-height: 1.2; /* Adjust line-height for better spacing */
