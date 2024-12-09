@@ -72,7 +72,7 @@ const TEXTS = [
     "text": "The Indians brought in no Grouse."
   },
   {
-    "text": "We talked of the country where we were, of the beings best fitted to live and prosper here, not only of our species, but of all species, 407and also of the enormous destruction of everything here, except the rocks; the aborigines themselves melting away before the encroachments of the white man, who looks without pity upon the decrease of the devoted Indian, from whom he rifles home, food, clothing, and life."
+    "text": "We talked of the country where we were, of the beings best fitted to live and prosper here, not only of our species, but of all species, and also of the enormous destruction of everything here, except the rocks; the aborigines themselves melting away before the encroachments of the white man, who looks without pity upon the decrease of the devoted Indian, from whom he rifles home, food, clothing, and life."
   },
   {
     "text": "For as the Deer, the Caribou, and all other game is killed for the dollar which its skin brings in, the Indian must search in vain over the devastated country for that on which he is accustomed to feed, till, worn out by sorrow, despair, and want, he either goes far from his early haunts to others, which in time will be similarly invaded, or he lies on the rocky seashore and dies."
@@ -123,7 +123,7 @@ const TEXTS = [
     "text": "These native Indians give no quarter to anybody; usually, after killing their foes, they cut the heads off the latter, and leave the body to the wild beasts of the country."
   },
   {
-    "text": "Captain Sire took me in a light wagon to see old Mr. Chouteau one afternoon, 455and I found the worthy old gentleman so kind and so full of information about the countries of the Indians that I returned to him a few days afterwards, not only for the sake of the pleasure I enjoyed in his conversation, but also with the view to procure, both dead and alive, a species of Pouched Rat (Pseudostoma bursarius)[244] wonderfully abundant in this section of country."
+    "text": "Captain Sire took me in a light wagon to see old Mr. Chouteau one afternoon, and I found the worthy old gentleman so kind and so full of information about the countries of the Indians that I returned to him a few days afterwards, not only for the sake of the pleasure I enjoyed in his conversation, but also with the view to procure, both dead and alive, a species of Pouched Rat (Pseudostoma bursarius) wonderfully abundant in this section of country."
   },
   {
     "text": "The Indians, poor souls, were more quiet, and had already seated or squatted themselves on the highest parts of the steamer, and were tranquil lookers-on."
@@ -159,7 +159,7 @@ const TEXTS = [
     "text": "We had a famous pack of rascally Indians awaiting our landing—filthy and half-starved."
   },
   {
-    "text": "The store is no great affair, and yet I am told that they drive a good trade with Indians on the Platte River, and others, 478on this side of the Missouri."
+    "text": "The store is no great affair, and yet I am told that they drive a good trade with Indians on the Platte River, and others, on this side of the Missouri."
   },
   {
     "text": "Last July the captain sent twenty dragoons and as many Indians on a hunt for Buffaloes."
@@ -168,13 +168,13 @@ const TEXTS = [
     "text": "The Sioux Indians are great enemies to the Potowatamies, and very frequently kill several of the latter in their predatory excursions against them."
   },
   {
-    "text": "We saw there many Bank Swallows, and afterwards we came in view of the Blackbird Hill,[281] where the famous Indian chief of that name was buried, at his request, on his horse, whilst the animal was alive."
+    "text": "We saw there many Bank Swallows, and afterwards we came in view of the Blackbird Hill, where the famous Indian chief of that name was buried, at his request, on his horse, whilst the animal was alive."
   },
   {
     "text": "We saw this morning eleven Indians of the Omaha tribe."
   },
   {
-    "text": "On a sand-bar afterwards 488we saw three more Indians, also with a canoe frame, but we only interchanged the common yells usual on such occasions."
+    "text": "On a sand-bar afterwards we saw three more Indians, also with a canoe frame, but we only interchanged the common yells usual on such occasions."
   },
   {
     "text": "At our last landing for wood-cutting, we also went on shore, but shot nothing, not even took aim at a bird; and there was an Indian with a flint-lock rifle, who came on board and stared about until we left, when he went off with a little tobacco."
