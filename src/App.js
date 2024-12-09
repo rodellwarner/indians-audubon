@@ -48,7 +48,7 @@ class App extends Component {
     // Randomly select the next image and text
     const nextImageKey =
       this.imageKeys[Math.floor(Math.random() * this.imageKeys.length)];
-    const nextImageNumber = this.getRandomInt(1, 3); // Random image number between 1 and 3
+    const nextImageNumber = this.getRandomInt(1, 4); // Random image number between 1 and 4
     const nextTextNumber = this.getRandomInt(0, TEXTS.length); // Random text index
 
     this.setState({
