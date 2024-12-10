@@ -3,7 +3,7 @@ const TEXTS = [
     "text": "Audubon in Indian Dress • From a pencil sketch drawn by himself for Miss Rathbone, 1826. Now in the possession of Mrs. Abraham Dixon (née Rathbone), London, England."
   },
   {
-    "text": "Indian Hatchet Pipe • Carried by Audubon during many of his journeys."
+    "text": "INDIAN HATCHET-PIPE.Carried by Audubon during many of his journeys."
   },
   {
     "text": "Victor was born June 12, 1809, at Gwathway's Hotel of the Indian Queen."
@@ -184,6 +184,90 @@ const TEXTS = [
   },
   {
     "text": "After a while we reached a spot where we saw ten or more Indians who had a large log cabin, and a field under fence."
+  },
+  {
+    "text": "We took at Mr. Cerré's establishment two engagés and four Sioux Indians."
+  },
+  {
+    "text": "Michaux had brought the Deer—Indian fashion—about two miles."
+  },
+  {
+    "text": "The most extraordinary part of the history of these drowned Buffaloes is, that the different tribes of Indians on the shores, are ever on the lookout for them, and no matter how putrid their flesh may be, provided the hump proves at all fat, they swim to them, drag them on shore, and cut them to pieces; after which they cook and eat this loathsome and 497abominable flesh, even to the marrow found in the bones."
+  },
+  {
+    "text": "Ah! Mr. Catlin, I am now sorry to see and to read your accounts of the Indians you saw — how very different they must have been from any that I have seen!"
+  },
+  {
+    "text": "The four Indians we have on board are three Puncas and one Sioux; the Puncas were formerly attached to the Omahas; but, having had some difficulties among themselves, they retired further up the river, and assumed this new name."
+  },
+  {
+    "text": "I was introduced to that gentleman and also to Major Dripps, the Indian agent."
+  },
+  {
+    "text": "They departed soon after six o'clock, and proceeded rapidly down-stream in Indian file."
+  },
+  {
+    "text": "I forgot to say yesterday two things which I should have related, one of which is of a dismal and very disagreeable nature, being no less than the account given us of the clerks of the Company having killed one of the chiefs of the Blackfeet tribe of Indians, at the upper settlement of the Company, at the foot of the great falls of the Missouri, and therefore at the base of the Rocky Mountains, and Mr. Laidlaw assured us that it would be extremely dangerous for us to go that far towards these Indians."
+  },
+  {
+    "text": "Three of our Indian rascals left us at our last wooding-ground, and have gone towards their miserable village."
+  },
+  {
+    "text": "This plant is collected in great quantities by the Indians at this season and during the whole summer, and put to dry, which renders it as hard as wood; it is then pounded fine, and makes an excellent kind of mush, upon which the Indians feed greedily."
+  },
+  {
+    "text": " After we had left our first landing-place a few miles, we observed some seven or eight Indians looking at us, and again retiring to the woods, as if to cover themselves; when we came nearly opposite them, however, they all came to the shore, and made signs to induce us to land."
+  },
+  {
+    "text": "Our Sioux Indian helped himself to another, and they all felt chilly and damp."
+  },
+  {
+    "text": "They had been nine days coming 150 miles, detained every day, more or less, by Indians. "
+  },
+  {
+    "text": "They were not followed, and we reached the river at a spot which evidently had been previously camped on by Indians; here we made our minds up to stop at once, and arrange for the night, which now promised to be none of the fairest."
+  },
+  {
+    "text": "After a hearty meal we went to sleep, one and all, under the protection of God, and not much afraid of Indians, of whom we have not seen a specimen since we had the pleasure of being fired on by the Santees."
+  },
+  {
+    "text": "We had not proceeded very far when the difficulties of navigation increased so much that we grounded several times, and presently saw a few Indians on the shore; our yawl was out sounding for a passage amid the many sand-bars in view; the Indians fired, not balls, but a salute, to call us ashore. "
+  },
+  {
+    "text": "It is quite surprising that these Indians did not see us last night, for I have no doubt our fire could have been seen up and down the river for nearly twenty miles."
+  },
+  {
+    "text": "The Indians saw nothing of the three men who were sent yesterday to announce our approach to Fort Pierre."
+  },
+  {
+    "text": "Our visiting Indians left us at twelve last night, and I was glad enough to be rid of these beggars by trade."
+  },
+  {
+    "text": "This is what is called the “Station of the Opposition line;” some Indians and a few lodges are on the edge of the prairie."
+  },
+  {
+    "text": "Sundry bales of Buffalo robes were brought on board, and Major Hamilton, who is now acting Indian agent here until the return of Major Crisp, came on board also."
+  },
+  {
+    "text": "Indians were seen on both sides the river, ready to trade both here and at Fort Pierre, where I am told there are five hundred lodges standing. "
+  },
+  {
+    "text": "The Indian dogs which I saw here so very closely resemble wild Wolves, that I feel assured that if I was to meet with one of them in the woods, I should most assuredly kill it as such."
+  },
+  {
+    "text": "I looked at the Indian Dogs again with much attention, and was assured that there is much cross breeding between these Dogs and Wolves, and that all the varieties actually come from the same root."
+  },
+  {
+    "text": "The hides at present are not worth saving, and the Indians as well as the white hunters, when they shoot a Buffalo, tear off the hide, cut out the better portions of the flesh, as well as the tongue, and leave the carcass to the Wolves and Ravens."
+  },
+  {
+    "text": "I was also presented with two pairs of moccasins, an Indian riding-whip, one collar of Grizzly Bear's claws, and two long strings of dried white apples, as well as two Indian dresses."
+  },
+  {
+    "text": "She soled three pairs of moccasins for me, as skilfully as an Indian."
+  },
+  {
+    "text": "We had a rascally Indian on board, who hid himself for the purpose of murdering Mr. Chardon; the latter gave him a thrashing last year for thieving, and Indians never forget such things—he had sworn vengeance, and that was enough."
   }
 
 
